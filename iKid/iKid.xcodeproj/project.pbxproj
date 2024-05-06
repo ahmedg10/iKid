@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CF3102582BE88CCA004072C8 /* #.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3102572BE88CCA004072C8 /* #.swift */; };
+		CF31025A2BE944F9004072C8 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3102592BE944F9004072C8 /* ImageView.swift */; };
 		CF440C282BE87FE10080C16C /* iKidApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF440C272BE87FE10080C16C /* iKidApp.swift */; };
 		CF440C2A2BE87FE10080C16C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF440C292BE87FE10080C16C /* ContentView.swift */; };
 		CF440C2C2BE87FE20080C16C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF440C2B2BE87FE20080C16C /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		CF3102572BE88CCA004072C8 /* #.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "#.swift"; sourceTree = "<group>"; };
+		CF3102592BE944F9004072C8 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		CF440C242BE87FE10080C16C /* iKid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iKid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF440C272BE87FE10080C16C /* iKidApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iKidApp.swift; sourceTree = "<group>"; };
 		CF440C292BE87FE10080C16C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				CF3102572BE88CCA004072C8 /* #.swift */,
 				CF440C2B2BE87FE20080C16C /* Assets.xcassets */,
 				CF440C2D2BE87FE20080C16C /* Preview Content */,
+				CF3102592BE944F9004072C8 /* ImageView.swift */,
 			);
 			path = iKid;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF31025A2BE944F9004072C8 /* ImageView.swift in Sources */,
 				CF440C2A2BE87FE10080C16C /* ContentView.swift in Sources */,
 				CF3102582BE88CCA004072C8 /* #.swift in Sources */,
 				CF440C282BE87FE10080C16C /* iKidApp.swift in Sources */,

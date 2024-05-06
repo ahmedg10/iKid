@@ -36,6 +36,13 @@ struct ContentView: View {
             .tabItem {
                 Label("Knock-Kncok", systemImage: "4.circle")
             }
+            
+            NavigationView {
+                ImageView()
+            }
+            .tabItem {
+                Label("Image Joke", systemImage: "5.circle")
+            }
         }
     }
 }
